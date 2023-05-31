@@ -1,1 +1,2 @@
 This is the first file created in the git folder to do the things related to the git commands
+this is updated sample.txt file
